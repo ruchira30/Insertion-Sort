@@ -1,0 +1,2 @@
+# Insertion-Sort
+### The above code implements the insertion sort algorithm in C. The program initializes an array of integers and its size, then calls the InsertionSort function, passing the array and its size as arguments. The InsertionSort function uses two nested loops to sort the array in ascending order by shifting elements larger than the current element to the right and inserting the current element in its correct position. The sorted array is then displayed using a for loop in the main function.
